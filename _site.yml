@@ -1,0 +1,9 @@
+name: "Personal Website"
+output_dir: "."
+navbar:
+  title: "李宸(Chen Li)"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
