@@ -1,7 +1,7 @@
 name: "Personal Website"
 output_dir: "."
 navbar:
-  title: "李宸(Chen Li)"
+  title: "Chen Li"
   left:
     - text: "Home"
       href: index.html
